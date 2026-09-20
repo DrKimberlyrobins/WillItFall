@@ -47,10 +47,10 @@ h1 {
 
     background: radial-gradient(
         circle at 30% 25%,
-        #ffffff,
-        #bbbbbb 25%,
-        #555555 70%,
-        #111111
+       #ffffff,
+#ff6666 20%,
+#e60000 60%,
+#660000 100%
     );
 
     box-shadow: 8px 12px 15px rgba(0, 0, 0, 0.7);
